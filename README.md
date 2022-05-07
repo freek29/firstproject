@@ -1,2 +1,2 @@
 # firstproject
-repository contains my first ever project
+ This repository contains my first ever project on git .
